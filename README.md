@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/51456769/138376300-ba8253af-90a6-4bd5-aacf-72953eab7a2d.png)
 
 <!--
 **JaoSchmidt/JaoSchmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
